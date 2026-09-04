@@ -1,9 +1,19 @@
 # Secure-Web-Application-Flask
 
 ## Project Objective
-To develop a secure web application implementing authentication, authorization, password hashing, session management, and secure coding practices.
 
-## Technologies Used
+This project demonstrates the development of a secure web application using Flask. It implements user authentication, authorization, password hashing, session management, and follow secure coding practices to protect user data.
+
+## Objectives
+
+- Develop a secure login system
+- Implement authentication and authorization
+- Apply password hashing techniques
+- Prevent common web vulnerabilities
+- Understand OWASAP security principles
+
+## Techniques Used 
+
 - Python
 - Flask
 - SQLite
@@ -11,18 +21,13 @@ To develop a secure web application implementing authentication, authorization, 
 - HTML/CSS
 
 ## Security Features
+
 - User Registration
 - Secure Login
 - Password Hashing
 - Session Management
 - Input Validation
 - SQL Injection Prevention
-
-## Learning Outcomes
-- Secure Coding
-- Web Security
-- Authentication and Authorization
-- OWASP Security Practices
 
 ## Future Enhancements
 - Two-Factor Authentication
